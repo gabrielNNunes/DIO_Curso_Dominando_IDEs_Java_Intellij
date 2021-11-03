@@ -1,6 +1,6 @@
 # DIO Curso dominando IDEs em Java
 
-##Realizando o versionamento de um código através do Intellij
+## Realizando o versionamento de um código através do Intellij
 
 
 [DIO - Digital Innovation One](https://digitalinnovation.one/sign-in)
